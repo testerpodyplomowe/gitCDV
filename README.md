@@ -54,6 +54,10 @@ Przykład tabeli:
 | $10                  | $10                  | $10             |
 | $1                   | $1                   | $1              |
 
+
+
+[Click to get GIT an GITHUB CHEATSHEET](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+
 Jak sprawdzić wersję:
 ```$ git --version```
 
