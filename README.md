@@ -2,14 +2,4 @@
 
 ### Instalacja GITA dla UBUNTU LINUX
 
-Wykorzystaj polecenie 
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
+### Ulubione 5 poleceń z linuxa z zajęc 5.10.2019:
