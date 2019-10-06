@@ -29,3 +29,5 @@ Przykład tabeli:
 | $100                 | $100                 | $100            |
 | $10                  | $10                  | $10             |
 | $1                   | $1                   | $1              |
+
+print("HELLO WORLD")
