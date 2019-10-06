@@ -13,6 +13,14 @@ ls
 mkdir
 ```
 
+### Fragmenty kodu w Pythonie z 5.10.2019:
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+
+
 Przykład tabeli:
 
 | Fun                  | With                 | Tables          |
