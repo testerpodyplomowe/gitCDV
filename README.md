@@ -1,4 +1,3 @@
-### logo 
 ![alt text](https://cdv.pl/wp-content/uploads/2018/02/logo.svg "Logo CDV")
 
 ### Python webdriver command
@@ -103,10 +102,6 @@ print s
 s = "Ruby is not a jewel"
 print s
 ```
-=======
-#! /usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 
 ```Python
 
