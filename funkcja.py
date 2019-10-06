@@ -1,0 +1,3 @@
+def przywitanie():
+	print "dziendoberek'
+
