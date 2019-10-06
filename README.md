@@ -54,4 +54,7 @@ Przykład tabeli:
 | $10                  | $10                  | $10             |
 | $1                   | $1                   | $1              |
 
+Jak sprawdzić wersję:
+```$ git --version```
+
 ##UPDATED 06.10
