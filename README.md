@@ -69,6 +69,11 @@ Przykład tabeli:
 | $10                  | $10                  | $10             |
 | $1                   | $1                   | $1              |
 
+
+### Linux
+*Aby wyjść z interpretatora, wcisamy **CTRL** lub uruchamiamy funkcje **quit()**
+
+
 Polecenia związane z użytkownikami, grupami, loginami i zamykaniem systemu
 ```newgrp (dodajemy nową grupę)
 passwd (zmieniamy hasła)
@@ -103,7 +108,6 @@ print s
 s = "Ruby is not a jewel"
 print s
 ```
-=======
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
 
