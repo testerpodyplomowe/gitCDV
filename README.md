@@ -29,3 +29,8 @@ Przykład tabeli:
 | $100                 | $100                 | $100            |
 | $10                  | $10                  | $10             |
 | $1                   | $1                   | $1              |
+
+
+
+### Linux
+*Aby wyjść z interpretatora, wcisamy **CTRL** lub uruchamiamy funkcje **quit()**
