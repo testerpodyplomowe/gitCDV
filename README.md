@@ -32,4 +32,4 @@ Przykład tabeli:
 
 
 
-[I'm an inline-style link to github cheet sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+[I'm an inline-style link to github cheet sheet. Click to learn more](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
