@@ -68,6 +68,11 @@ Przykład tabeli:
 | $10                  | $10                  | $10             |
 | $1                   | $1                   | $1              |
 
+
+### Linux
+*Aby wyjść z interpretatora, wcisamy **CTRL** lub uruchamiamy funkcje **quit()**
+
+
 Polecenia związane z użytkownikami, grupami, loginami i zamykaniem systemu
 ```newgrp (dodajemy nową grupę)
 passwd (zmieniamy hasła)
@@ -172,5 +177,8 @@ if __name__ == '__main__':
 
 Jak sprawdzić wersję:
 ```$ git --version```
+
+[Link do maszyny wirtualnej dla studentów tester CDV](https://drive.google.com/drive/folders/1N-e3ZdpwvghxOLhC9_4ED9KxRK2YNL9e)
+
 
 ##UPDATED 06.10
