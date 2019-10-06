@@ -29,3 +29,7 @@ Przykład tabeli:
 | $100                 | $100                 | $100            |
 | $10                  | $10                  | $10             |
 | $1                   | $1                   | $1              |
+
+
+
+[I'm an inline-style link to github cheet sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
