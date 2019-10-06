@@ -45,6 +45,13 @@ cat
 cd
 ```
 
+### Ulubione 5 poleceń z linuxa z zajęc 5.10.2019 AGNIESZKI:
+```sudo apt install [installing stuff]
+touch [creating a file]
+clear [cleaning the console]
+rmdir [remove directory]
+```
+
 ### Fragmenty kodu w Pythonie z 5.10.2019:
 ```python
 s = "Python syntax highlighting"
