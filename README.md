@@ -31,4 +31,4 @@ Przykład tabeli:
 | $1                   | $1                   | $1              |
 
 
-[Nasza Google Grupa](https://drive.google.com/drive/folders/1N-e3ZdpwvghxOLhC9_4ED9KxRK2YNL9e)
+[Link do maszyny wirtualnej dla studentów tester CDV](https://drive.google.com/drive/folders/1N-e3ZdpwvghxOLhC9_4ED9KxRK2YNL9e)
