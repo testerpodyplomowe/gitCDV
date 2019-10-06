@@ -6,7 +6,7 @@ sudo apt install git
 ```
 
 
-### Ulubione 5 poleceń z linuxa z zajęc 5.10.2019:
+### Ulubione 3 polecenia z linuxa z zajęc 5.10.2019:
 ```sh
 pwd
 ls
@@ -29,3 +29,5 @@ Przykład tabeli:
 | $100                 | $100                 | $100            |
 | $10                  | $10                  | $10             |
 | $1                   | $1                   | $1              |
+
+##UPDATED 06.10
