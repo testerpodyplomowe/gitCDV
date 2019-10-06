@@ -182,4 +182,7 @@ if __name__ == '__main__':
 Jak sprawdzić wersję:
 ```$ git --version```
 
+[Link do maszyny wirtualnej dla studentów tester CDV](https://drive.google.com/drive/folders/1N-e3ZdpwvghxOLhC9_4ED9KxRK2YNL9e)
+
+
 ##UPDATED 06.10
