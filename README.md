@@ -29,3 +29,6 @@ Przykład tabeli:
 | $100                 | $100                 | $100            |
 | $10                  | $10                  | $10             |
 | $1                   | $1                   | $1              |
+
+
+[Nasza Google Grupa] (https://drive.google.com/drive/folders/1N-e3ZdpwvghxOLhC9_4ED9KxRK2YNL9e)
