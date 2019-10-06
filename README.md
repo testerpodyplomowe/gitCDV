@@ -11,6 +11,8 @@ sudo apt install git
 pwd
 ls
 mkdir
+cat
+cd
 ```
 
 ### Fragmenty kodu w Pythonie z 5.10.2019:
