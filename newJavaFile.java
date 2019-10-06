@@ -1,4 +1,4 @@
-//Java language 
+//Java language sample code
 
 /* HelloWorld.java
  */
