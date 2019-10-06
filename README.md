@@ -5,12 +5,21 @@
 sudo apt install git
 ```
 
+### Polecenia Git'a:
+```git
+git status
+git add .
+git log --oneline
+git commit -a -m "zmiany"
+```
 
 ### Ulubione 5 poleceń z linuxa z zajęc 5.10.2019:
 ```sh
 pwd
 ls
+ls --all
 mkdir
+clear
 ```
 
 ### Fragmenty kodu w Pythonie z 5.10.2019:
