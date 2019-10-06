@@ -55,11 +55,25 @@ Przykład tabeli:
 | $1                   | $1                   | $1              |
 
 
+### Python z 5.10.2019:
+```python
+s = "Python is not a snake"
+print s
+```
+
+```python
+s = "Java is not an island"
+print s
+```
+
+```python
+s = "Ruby is not a jewel"
+print s
+```
+=======
 #! /usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-
-kod skopiowany z neta, ale może kiedyś napiszę z głowy...
 
 ```Python
 
@@ -122,8 +136,6 @@ def main(args):
 if __name__ == '__main__':
     import sys
     sys.exit(main(sys.argv))
-
-
 ``` 
 
 
