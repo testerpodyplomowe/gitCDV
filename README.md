@@ -27,11 +27,19 @@ driver.close()
 sudo apt install git
 ```
 
+### Polecenia Git'a:
+```git
+git status
+git add .
+git log --oneline
+git commit -a -m "zmiany"
+```
 
-### Ulubione 3 polecenia z linuxa z zajęc 5.10.2019:
+### Ulubione 6 polecenia z linuxa z zajęc 5.10.2019:
 ```sh
 pwd
 ls
+ls --all
 mkdir
 cat
 cd
