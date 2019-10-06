@@ -30,8 +30,7 @@ Przykład tabeli:
 | $10                  | $10                  | $10             |
 | $1                   | $1                   | $1              |
 
-
-###Polecenia związane z użytkownikami, grupami, loginami i zamykaniem systemu
+Polecenia związane z użytkownikami, grupami, loginami i zamykaniem systemu
 ```shutdown(zamykamy Linuxa)
 adduser (dodajemy nowego użytkownika)
 newgrp (dodajemy nową grupę)
